@@ -10,10 +10,16 @@
  * Solution:
  * 
  * Switch to the directory where twoSum.java is located
+ * ..."/LeetCode/twoSum>" directory
+ * 
  * Compile the program with "javac twoSum/twoSum.java"
- * Run the program with a target, followed by an array of integers: "java twoSum.Solution 9 2 11 15 7"
+ * 
+ * Run the program with "java twoSum.java <parameters>", with the 
+ * parameters being the target, followed by an array of integers, ex: 
+ * "java twoSum.Solution 9 2 11 15 7"
+ * 
  * The result will be the indexes that add up to the target value.
- * If no two complements are found, 
+ * 
  * 
  */
 package twoSum;
